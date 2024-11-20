@@ -7,3 +7,6 @@
 **eval-ft-ood**: OOD test set of EG-QA
 
 **eval-object**: Evaluation on object of EG-QA
+
+
+We will continue open-source all data, fine-tuned code and models. 
