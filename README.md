@@ -9,4 +9,4 @@
 **eval-object**: Evaluation on object of EG-QA
 
 
-We will continue open-source all data, fine-tuned code and models. 
+We will continue to open-source all data, fine-tuned code and models. 
