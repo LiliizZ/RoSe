@@ -10,3 +10,5 @@
 
 
 We will continue to open-source all data, fine-tuned code and models. 
+Concerning anonymity policy, the question stem (Chinese) is removed from the dataset, which may contain district, grade, etc.
+
