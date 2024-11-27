@@ -13,6 +13,8 @@ Concerning anonymity policy, the question stem (Chinese) is removed from the dat
 
 ### Relevant examples that do not violate the anonymity policy can be found in /Fine-tune/examples.json.
 
+# RoSe
+
 ### Relevant code for fine-tuning LLaMA3-8B and environment configuration can be found in /Fine-tune.
 
 
