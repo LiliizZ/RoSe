@@ -1,8 +1,9 @@
 # RoSe
 
 
-environment configuration
-## The environment configuration can be referred to environments.yaml
+## environment configuration
+The environment configuration can be referred to environments.yaml:
+
 conda env create -f environments.yaml
 
 
