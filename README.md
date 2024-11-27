@@ -12,7 +12,7 @@
 
 Concerning anonymity policy, the question stem (Chinese) is removed from the dataset, which may contain district, grade, etc. 
 
-> Relevant examples that do not violate the anonymity policy can be found in /Fine-tune/examples.json.
+> Relevant examples that do not violate the anonymity policy can be found in /Fine-tune/examples.jsonl.
 
 # RoSe
 
