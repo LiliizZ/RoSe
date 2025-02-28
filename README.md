@@ -20,6 +20,6 @@ Concerning anonymity policy, the question stem (Chinese) is removed from the dat
 
 ---
 
-We will continue to open-source all data, fine-tuned code and models. 
+
 
 
