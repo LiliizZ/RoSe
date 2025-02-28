@@ -2,7 +2,7 @@
 
 The source code for paper:
 
-[Evaluating Large Language Models through Role-Guide and Self-Reflection: A Comparative Study](https://openreview.net/forum?id=E36NHwe7Zc&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2025%2FConference%2FAuthors%23your-submissions))  (ICLR'25)
+[Evaluating Large Language Models through Role-Guide and Self-Reflection: A Comparative Study](https://openreview.net/forum?id=E36NHwe7Zc)  (ICLR'25)
 
 # EG-QA
 
@@ -19,7 +19,7 @@ The source code for paper:
 
 # RoSe
 
-### Relevant code for fine-tuning LLaMA3-8B and environment configuration can be found in /Fine-tune.
+ Relevant code for fine-tuning LLaMA3-8B and environment configuration can be found in /Fine-tune.
 
 ---
 
