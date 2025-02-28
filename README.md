@@ -1,3 +1,9 @@
+# RoSe
+
+The source code for paper:
+
+[Evaluating Large Language Models through Role-Guide and Self-Reflection: A Comparative Study](https://openreview.net/forum?id=E36NHwe7Zc&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2025%2FConference%2FAuthors%23your-submissions))  (ICLR'25)
+
 # EG-QA
 
 **double-cali-ft-train**: fine-tuning data for open-source LLMs
