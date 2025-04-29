@@ -29,6 +29,13 @@ The iid and ood files also contain ground-truth reasoning process (gt-analysis).
 
 ---
 
+If you find our work useful for your research, please cite the following paper:
 
+     @inproceedings{zhaoevaluating,
+       title={Evaluating Large Language Models through Role-Guide and Self-Reflection: A Comparative Study},
+       author={Zhao, Lili and Wang, Yang and Liu, Qi and Wang, Mengyun and Chen, Wei and Sheng, Zhichao and Wang, Shijin},
+       booktitle={The Thirteenth International Conference on Learning Representations},
+       year={2025}
+     }
 
 
