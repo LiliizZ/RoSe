@@ -17,6 +17,12 @@ The source code for paper:
 ---
 
 
+Relevant source files for evaluating and fine-tuning can be found in /source.
+
+The iid and ood files also contain ground-truth reasoning process (gt-analysis).
+
+---
+
 # RoSe
 
  Relevant code for fine-tuning LLaMA3-8B and environment configuration can be found in /Fine-tune.
